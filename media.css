@@ -1,0 +1,22 @@
+/* media style */
+
+/* iPhone 6 / Galaxy s5 */
+@media screen and (max-width: 375px) {
+    .lang-nav {margin-left: 37%;}
+    .lang-nav-item img {width: 32px; height: 32px;}
+    .logo img {width: 70%; height: 70%; margin-top: 10%;}
+    .rg-gallery {margin-top: 2%;}
+    .footer {bottom: 0; position: absolute;}
+    .footer1 {padding-right: 30%;}
+    .footer p {font-size: 10px;}
+}
+/* iPhone 6 / Galaxy s5 */
+
+/* iPhone 5 */
+@media screen and (max-width: 375px) {
+  .lang-nav {margin-left: 36%;}
+  .lang-nav-item img {width: 30px; height: 30px;}
+}
+/* iPhone 5 */
+
+/* media style */
